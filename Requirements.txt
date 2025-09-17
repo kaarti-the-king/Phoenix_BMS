@@ -1,0 +1,8 @@
+pip install numpy
+pip install pandas
+pip install pyinputplus
+pip install mysql-connector-python
+pip install pyfiglet
+pip install tabulate
+pip install colorama
+pip install rich
